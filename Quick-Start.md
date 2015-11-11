@@ -1,3 +1,4 @@
+# Quick Start.
 ## 1.2. Welcome.
 * C-534 jest aplikacja internetową, która służy do integracji z różnymi api. 
 
@@ -13,5 +14,3 @@
 * Konektor aktywny (webhook) jest to konektor, który jest uruchamiany ręcznie  przez użytkownika.
 
 * Konektor pasywny (trigger) jest to konektor, który może być uruchomiony automatycznie przez inny mikro serwis, zgodnie z harmonogramem.
-
-# 2. How to connect two systems?
