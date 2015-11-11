@@ -1,4 +1,3 @@
-# Quick Start.
 ## 1.2. Welcome.
 * C-534 jest aplikacja internetową, która służy do integracji z różnymi api. 
 
