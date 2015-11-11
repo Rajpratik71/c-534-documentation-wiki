@@ -15,4 +15,4 @@
 
 * Konektor pasywny (trigger) jest to konektor, który może być uruchomiony automatycznie przez inny mikro serwis, zgodnie z harmonogramem.
 
-# 2. How to connect two systems?.
+# 2. How to connect two systems?
