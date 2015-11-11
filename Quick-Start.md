@@ -1,5 +1,5 @@
 ## 1. Welcome.
-    C-534 jest aplikacja internetową, która służy do integracji z różnymi api. 
+C-534 jest aplikacja internetową, która służy do integracji z różnymi api. 
 
 ## 2. Basic Concepts.
 1. **Mikro serwis**  jest to główna część oprogramowania, odpowiedzialna za całą integracje platformy c-534 z      systemami zewnętrznymi. Składa się z konektora wejściowego, transformacji i konektora wyjściowego.
