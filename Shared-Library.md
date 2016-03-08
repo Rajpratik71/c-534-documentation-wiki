@@ -1,7 +1,7 @@
 With **Shared library** module you can define your own variables and functions, which you can use in a **Transformation** of any **Microservice**.
 
 
-In the **Shared Library** code you can use all the features described in the **[Transformation](https://github.com/c-534/documentation/wiki/4.-Transformation)** section.
+In the **Shared Library** code you can use all the features described in the **[Transformation](https://github.com/c-534/documentation/wiki/Transformation)** section.
 
 ## Usage example
 
