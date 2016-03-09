@@ -16,4 +16,4 @@ To learn more about how **c-534.io** platform works, choose a topic from our sid
 
 #### To start you API integration click [here](https://app.c-534.io/profile/register).
 
-#### Visit our website **[c-534.io](http://c-534.io)** & Twitter account [@c534io](https://twitter.com/c534io).
+#### Visit our website **[c-534.io](http://c-534.io)** & our Twitter occounts [@c534io](https://twitter.com/c534io) & [@c534io_info](https://twitter.com/c534io_info).
