@@ -9,7 +9,7 @@ It's an API integration platform that helps developers & DevOps with their work 
 
 * making it  possible to integrate multiple applications
 * sending real-time alerts of success & errors
-* giving scalability thanks to [Google Cloud Platform](https://cloud.google.com/)e base
+* giving scalability thanks to [Google Cloud Platform](https://cloud.google.com/) base
 * smooth work thanks to standard [Python](https://www.python.org/) language base
 
 To learn more about how **c-534.io** platform works, choose a topic from our sidebar. 
