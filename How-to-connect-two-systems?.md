@@ -7,9 +7,9 @@ Thanks to this integration you'll be able to synchronize your **LeanKit** cards 
 In order to create this integration on your **<a href="http://app.c-534.io" target="_blank">c-534.io</a>** account you'll need to create one **Microservice**.
 
 What you'll need to proceed:
-* **<a href="http://app.c-534.io" target="_blank">c-534.io</a>** account (you can <a href="https://app.c-534.io/profile/register" target="_blank">register</a> for a free trial)
-* **<a href="http://www.zendesk.com" target="_blank">Zendesk</a>** account (you can <a href="https://www.zendesk.com/register/#getstarted" target="_blank">register</a> for a free trial)
-* **<a href="http://leankit.com" target="_blank">LeanKit</a>** account (you can <a href="http://info.leankit.com/get-leankit" target="_blank">register</a> for a free trial)
+* **<a href="http://app.c-534.io" target="_blank">c-534.io</a>** account (you can <a href="https://app.c-534.io/profile/register" target="_blank">sign up</a> for a free trial)
+* **<a href="http://www.zendesk.com" target="_blank">Zendesk</a>** account (you can <a href="https://www.zendesk.com/register/#getstarted" target="_blank">sign up</a> for a free trial)
+* **<a href="http://leankit.com" target="_blank">LeanKit</a>** account (you can <a href="http://info.leankit.com/get-leankit" target="_blank">sign up</a> for a free trial)
 
 **Let's start!** 
 
