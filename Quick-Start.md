@@ -1,4 +1,4 @@
-**c-534.io is an Integration Platform as a Service to easily connect systems using REST API.**
+**<a href="http://app.c-534.io" target="_blank">c-534.io</a> is an Integration Platform as a Service to easily connect systems using REST API.**
 
 # Basic Concepts
 ##Microservice 
