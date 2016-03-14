@@ -15,7 +15,7 @@ What you'll need to proceed:
 
 ### How to create a new Microservice in c-534.io?
 <ol>
-<li>Login to your <b><a href="http://app.c-534.io" target="_blank">c-534.io</a></b> account.</li>
+<li>Log in to your <b><a href="http://app.c-534.io" target="_blank">c-534.io</a></b> account.</li>
 <li>On the left sidebar click "<b>Microservices</b>".
 <div style="text-align:center"><img src ="https://github.com/C-534/documentation/blob/master/images/01_navbar_microservice.png" /></div></li>
 <li>Click "<b>New Microservice</b>" button.</li>
